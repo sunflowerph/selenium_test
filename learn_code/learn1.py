@@ -19,6 +19,7 @@ for email in emails:
 print dr.capabilities['browserVersion']#打印当前浏览器版本号
 print dr.current_url#打印当前url
 print dr.title#打印当前网页标题
+dr.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'t') #触发键盘按键 command+t 新打开一个页面，但是没成功。
 
 #判断当前网页标题内容（也可以用if  else）
 try:
@@ -28,9 +29,16 @@ except Exception as e:
     print 'test fail ',e
 
 
+try:
+    a=dr.find_element_by_xpath('/html/body/div/div[4]/div/div[1]/div[3]/div[2]/a/div')
+    a.is_displayed #判断元素是否存在
+    print a.size #打印元素的大小
+    print 'test pass'
+except:
+    print 'test fail'
+
+dr.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'A') #全选页面上的文字
 
 
 
-dr.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'t') #触发键盘按键 command+t 新打开一个页面，但是没成功。
-
-dr.quit()
+#dr.quit()
