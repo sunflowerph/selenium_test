@@ -2869,3 +2869,7 @@ JavaScript error: http://www.juqingba.cn/zjuqing/61175_25.html, line 148: Refere
 JavaScript error: http://www.juqingba.cn/zjuqing/61175_25.html, line 162: ReferenceError: bannerend is not defined
 JavaScript error: http://www.juqingba.cn/zjuqing/61175_25.html, line 169: ReferenceError: jqxuanfu is not defined
 JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1543458952754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.8i96D96sGtNv"
+1543458954990	Marionette	INFO	Listening on port 49960
+1543458955027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459041374	Marionette	INFO	Stopped listening on port 49960
