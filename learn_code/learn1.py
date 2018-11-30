@@ -44,5 +44,23 @@ dr.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'A') #全选页面上
 element=dr.find_element_by_xpath('/html/body/div/div[4]/div/div[1]/div[6]/div[2]/a/div')
 dr.execute_script('return arguments[0].scrollIntoView();',element) #执行JavaScript脚本，使浏览器滚动到目标元素所在的位置
 dr.execute_script('scroll(0,1800)') #也可以实现触发滚动条的目的
-dr.execute_script('window.alert("你好吗");') #执行JavaScript脚本，创建内容为"你好吗"的alert弹窗vv
+dr.execute_script('window.alert("你好吗");') #执行JavaScript脚本，创建内容为"你好吗"的alert弹窗
+dr.switch_to.alert.accept()
+
+dr.find_element_by_xpath("/html/body/div/div[4]/div/div[1]/div[3]/div[3]/a/div").click()
+handle=dr.current_window_handle  #获取当前窗口句柄
+print  handle
+print dr.window_handles  # 打印浏览器打开的所有窗口的句柄
+dr.switch_to.window(handle) #切换到该句柄窗口
+dr.close()#关闭当前窗口
+dr.execute_script('window.alert("en");')
+time.sleep(3)
+dr.switch_to.alert.accept() #关闭alert弹窗
+image=dr.find_element_by_tag_name('img') #查找网页中的图片元素
+print image.text
+print image.size
+print image.tag_name
+dr.get_screenshot_as_file('/users/ph/desktop/1.png') #截图
+
+
 dr.quit()

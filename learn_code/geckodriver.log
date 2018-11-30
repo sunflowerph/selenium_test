@@ -275,3 +275,147 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
 1543561368759	Marionette	INFO	Stopped listening on port 52208
+1543563009105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.I7aU1lREDZY1"
+1543563011970	Marionette	INFO	Listening on port 52475
+1543563012007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543563014573	Marionette	INFO	Stopped listening on port 52475
+1543564216493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.HRvpZFH4uUR3"
+1543564218657	Marionette	INFO	Listening on port 52636
+1543564218766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543564247077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.54BuDF2Yp2aU"
+1543564249377	Marionette	INFO	Listening on port 52704
+1543564249448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gss0.bdstatic.com/5foIcy0a2gI2n2jgoY3K/static/fisp_static/common/module_static_include/module_static_include_de88713.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1543564256338	Marionette	INFO	Stopped listening on port 52636
+1543564420975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.ePhzetWB3Fkh"
+1543564423279	Marionette	INFO	Listening on port 52797
+1543564423354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gss0.bdstatic.com/5foIcy0a2gI2n2jgoY3K/static/fisp_static/common/module_static_include/module_static_include_de88713.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1543564455301	Marionette	INFO	Stopped listening on port 52797
+1543564457066	Marionette	INFO	Stopped listening on port 52704
+1543564459810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.UQ4PpEFwZIW0"
+1543564462220	Marionette	INFO	Listening on port 52894
+1543564462271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+1543564553866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.xuPkcVUB4Q4z"
+1543564556092	Marionette	INFO	Listening on port 53054
+1543564556148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543564986799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.RL87hXkrAJoh"
+1543564989231	Marionette	INFO	Listening on port 53204
+1543564989280	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+1543565039608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.sDJITsuQUF9x"
+1543565042483	Marionette	INFO	Listening on port 53328
+1543565042498	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 756: TypeError: fo is undefined
+JavaScript error: http://news.cctv.com/2018/11/30/ARTI0Fq7owlBlW5NRuXUJyOh181130.shtml, line 737: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://bdimg.share.baidu.com//static/api/js/trans/logger.js?_=_&v=4e448e64.js, line 1: TypeError: n.ajax.request is not a function
+1543565114288	Marionette	INFO	Stopped listening on port 52894
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=4e448e64.js, line 1: TypeError: n.ajax.request is not a function
+1543565116073	Marionette	INFO	Stopped listening on port 53054
+JavaScript error: http://bdimg.share.baidu.com//static/api/js/trans/logger.js?_=_&v=4e448e64.js, line 1: TypeError: n.ajax.request is not a function
+1543565117499	Marionette	INFO	Stopped listening on port 53204
+1543565120413	Marionette	INFO	Stopped listening on port 53328
+1543565524644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.rf6yBTOPr4WN"
+1543565527060	Marionette	INFO	Listening on port 53581
+1543565527110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543565558470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.WfFwJMLkYDJS"
+JavaScript error: chrome://marionette/content/error.js, line 178: Error: Timed out after 30000 ms
+1543565560636	Marionette	INFO	Listening on port 53660
+1543565560736	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1543565574232	Marionette	INFO	Stopped listening on port 53660
+1543565575825	Marionette	INFO	Stopped listening on port 53581
+1543565851654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.B2qPrAqiJgxa"
+1543565853982	Marionette	INFO	Listening on port 53839
+1543565854019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543565888991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.6WcbKfYAZYid"
+1543565891347	Marionette	INFO	Listening on port 53915
+1543565891358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543566036473	Marionette	INFO	Stopped listening on port 53839
+1543566037942	Marionette	INFO	Stopped listening on port 53915
+1543566040309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.kVgnSdQw6Yf6"
+1543566042503	Marionette	INFO	Listening on port 54035
+1543566042599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543566090007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.0jATNTdAkekz"
+1543566092176	Marionette	INFO	Listening on port 54109
+1543566092288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543566130981	Marionette	INFO	Stopped listening on port 54109
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543566132950	Marionette	INFO	Stopped listening on port 54035
+1543566574594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.Ri95DDcofAeO"
+1543566577071	Marionette	INFO	Listening on port 54340
+1543566577189	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: http://webmap0.bdimg.com/wolfman/static/common/pkg/initmap_658357d.js line 3 > eval, line 1: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1543566770639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.VOvwCPly3kYF"
+1543566773196	Marionette	INFO	Listening on port 54545
+1543566773208	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543566824484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.jaQWB7G6FRBE"
+1543566826883	Marionette	INFO	Listening on port 54619
+1543566826957	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1543566857026	Marionette	INFO	Stopped listening on port 54340
+1543566859035	Marionette	INFO	Stopped listening on port 54545
+1543566861203	Marionette	INFO	Stopped listening on port 54619
+1543566881484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.awPbeAzq4vym"
+1543566883721	Marionette	INFO	Listening on port 54684
+1543566883763	Marionette	WARN	TLS certificate errors will be ignored for this session
