@@ -220,3 +220,58 @@ console.error: BroadcastService:
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1543485218832	Marionette	INFO	Stopped listening on port 55399
+1543560370870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.ABNjAKatciEe"
+1543560374237	Marionette	INFO	Listening on port 51374
+1543560374293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543560419245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.jsOcFwW2Nf8z"
+1543560421663	Marionette	INFO	Listening on port 51440
+1543560421725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543560665943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.Ygtdw3oPDPK7"
+1543560668495	Marionette	INFO	Listening on port 51533
+1543560668539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543560715737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.bbVvK3FQJRBT"
+1543560718444	Marionette	INFO	Listening on port 51611
+1543560718548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543560865766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.MOfOfneQUKvJ"
+1543560868530	Marionette	INFO	Listening on port 51695
+1543560868560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543560880648	Marionette	INFO	Stopped listening on port 51374
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1543560882797	Marionette	INFO	Stopped listening on port 51440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543560884315	Marionette	INFO	Stopped listening on port 51533
+1543560887453	Marionette	INFO	Stopped listening on port 51611
+1543560889625	Marionette	INFO	Stopped listening on port 51695
+1543561070095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.mphiH0ftnoDW"
+1543561072608	Marionette	INFO	Listening on port 51856
+1543561072683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543561105614	Marionette	INFO	Stopped listening on port 51856
+1543561108288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.2uREDDdB0whK"
+1543561110497	Marionette	INFO	Listening on port 51924
+1543561110581	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543561196391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.OTD1s0zavzpw"
+1543561198624	Marionette	INFO	Listening on port 52075
+1543561198673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543561261083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.AfvR043J5wIf"
+1543561263315	Marionette	INFO	Listening on port 52140
+1543561263371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543561282560	Marionette	INFO	Stopped listening on port 51924
+1543561284115	Marionette	INFO	Stopped listening on port 52075
+1543561285795	Marionette	INFO	Stopped listening on port 52140
+1543561326616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.8Xm7bAGW85QY"
+1543561328899	Marionette	INFO	Listening on port 52208
+1543561328989	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543561368759	Marionette	INFO	Stopped listening on port 52208

@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 dr=webdriver.Firefox(executable_path='/Users/ph/Documents/geckodriver')
 dr.maximize_window() #窗口最大化
 dr.set_window_size(1280,800) #自定义窗口大小 设置分辨率 1280*800
-dr.implicitly_wait(3)
+dr.implicitly_wait(5)
 
 dr.get('https://home.baidu.com/contact.html')
 doc = dr.page_source #获取页面源代码
@@ -41,4 +41,8 @@ dr.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'A') #全选页面上
 
 
 
-#dr.quit()
+element=dr.find_element_by_xpath('/html/body/div/div[4]/div/div[1]/div[6]/div[2]/a/div')
+dr.execute_script('return arguments[0].scrollIntoView();',element) #执行JavaScript脚本，使浏览器滚动到目标元素所在的位置
+dr.execute_script('scroll(0,1800)') #也可以实现触发滚动条的目的
+dr.execute_script('window.alert("你好吗");') #执行JavaScript脚本，创建内容为"你好吗"的alert弹窗vv
+dr.quit()
