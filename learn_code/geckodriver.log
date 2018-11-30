@@ -419,3 +419,77 @@ console.error: "Tried to send a 'tabDetached' event on an already destroyed acto
 1543566881484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.awPbeAzq4vym"
 1543566883721	Marionette	INFO	Listening on port 54684
 1543566883763	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543571491054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.r8GsRcJeeiCI"
+1543571493405	Marionette	INFO	Listening on port 55381
+1543571493434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543571528561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.8Lj57vIP7oft"
+1543571530825	Marionette	INFO	Listening on port 55429
+1543571530870	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720001,name=PScriptCache::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1543571561361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.zMh9zep4GHja"
+1543571563854	Marionette	INFO	Listening on port 55477
+1543571563922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1543571635931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.gPtQZHEQL9E8"
+1543571638987	Marionette	INFO	Listening on port 55535
+1543571639029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1543571640453	Marionette	INFO	Stopped listening on port 55535
+1543571643527	Marionette	INFO	Stopped listening on port 55381
+1543571644940	Marionette	INFO	Stopped listening on port 55429
+1543571646850	Marionette	INFO	Stopped listening on port 55477
+1543572421075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.NMzrc0FdwWjP"
+1543572423484	Marionette	INFO	Listening on port 55654
+1543572423547	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543572471877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.iBn9pXuiWhSw"
+1543572474188	Marionette	INFO	Listening on port 55709
+1543572474257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543572522440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.LQ7cEceMr6zd"
+1543572524771	Marionette	INFO	Listening on port 55758
+1543572524813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1543572532480	Marionette	INFO	Stopped listening on port 55654
+1543572534467	Marionette	INFO	Stopped listening on port 55709
+1543572536392	Marionette	INFO	Stopped listening on port 55758
+1543572538365	Marionette	INFO	Stopped listening on port 54684
+1543572678582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.iIfIYqiGt55r"
+1543572681302	Marionette	INFO	Listening on port 55894
+1543572681366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1543572764669	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.5pw4lGSgzSdi"
+1543572766943	Marionette	INFO	Listening on port 55964
+1543572766953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1543572782251	Marionette	INFO	Stopped listening on port 55964
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1543572784077	Marionette	INFO	Stopped listening on port 55894
+1543572839211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.jYkoI8LvzAOR"
+1543572841430	Marionette	INFO	Listening on port 56018
+1543572841476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=27910_1457_21085_27889_26350_22159&csor=1&cb=jQuery110202901635540247367_1543572842618&_=1543572842620, line 1: TypeError: jQuery110202901635540247367_1543572842618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=te&json=1&p=3&sid=27910_1457_21085_27889_26350_22159&csor=2&pwd=t&cb=jQuery110202901635540247367_1543572842618&_=1543572842621, line 1: TypeError: jQuery110202901635540247367_1543572842618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=text&json=1&p=3&sid=27910_1457_21085_27889_26350_22159&csor=4&pwd=tex&cb=jQuery110202901635540247367_1543572842618&_=1543572842623, line 1: TypeError: jQuery110202901635540247367_1543572842618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tex&json=1&p=3&sid=27910_1457_21085_27889_26350_22159&csor=3&pwd=te&cb=jQuery110202901635540247367_1543572842618&_=1543572842622, line 1: TypeError: jQuery110202901635540247367_1543572842618 is not a function
+1543572843167	Marionette	INFO	Stopped listening on port 56018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
