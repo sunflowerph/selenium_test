@@ -1,6 +1,10 @@
 # coding=utf-8
 #基础操作
 
+import time
+import logging
+import os.path
+
 class Base(object):
     def __init__(self,driver):
         self.driver=driver
@@ -16,4 +20,9 @@ class Base(object):
 
     def q(self):
         self.driver.quit()
+
+
+
+
+
 

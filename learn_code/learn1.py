@@ -6,6 +6,7 @@ import re
 from selenium.webdriver.common.keys import Keys
 
 dr=webdriver.Firefox(executable_path='/Users/ph/Documents/geckodriver')
+#dr=webdriver.Chrome(executable_path='/Users/ph/Documents/chromedriver')
 dr.maximize_window() #窗口最大化
 dr.set_window_size(1280,800) #自定义窗口大小 设置分辨率 1280*800
 dr.implicitly_wait(5)

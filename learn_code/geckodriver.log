@@ -493,3 +493,30 @@ JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tex&js
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1543630744263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.CEfC2qnadrKL"
+1543630748189	Marionette	INFO	Listening on port 49469
+1543630748227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=1459_21127_27408&csor=1&cb=jQuery11020021324967468764777_1543630749521&_=1543630749523, line 1: TypeError: jQuery11020021324967468764777_1543630749521 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tex&json=1&p=3&sid=1459_21127_27408&csor=3&pwd=te&cb=jQuery11020021324967468764777_1543630749521&_=1543630749525, line 1: TypeError: jQuery11020021324967468764777_1543630749521 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=te&json=1&p=3&sid=1459_21127_27408&csor=2&pwd=t&cb=jQuery11020021324967468764777_1543630749521&_=1543630749524, line 1: TypeError: jQuery11020021324967468764777_1543630749521 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=text&json=1&p=3&sid=1459_21127_27408&csor=4&pwd=tex&cb=jQuery11020021324967468764777_1543630749521&_=1543630749526, line 1: TypeError: jQuery11020021324967468764777_1543630749521 is not a function
+1543630750114	Marionette	INFO	Stopped listening on port 49469
+1543651268758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.VnuSjPQvdhcf"
+1543651271422	Marionette	INFO	Listening on port 51264
+1543651271444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=1433_21088_18560&csor=1&cb=jQuery110208317627113888375_1543651272686&_=1543651272687, line 1: TypeError: jQuery110208317627113888375_1543651272686 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=te&json=1&p=3&sid=1433_21088_18560&csor=2&pwd=t&cb=jQuery110208317627113888375_1543651272686&_=1543651272688, line 1: TypeError: jQuery110208317627113888375_1543651272686 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tex&json=1&p=3&sid=1433_21088_18560&csor=3&pwd=te&cb=jQuery110208317627113888375_1543651272686&_=1543651272689, line 1: TypeError: jQuery110208317627113888375_1543651272686 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=text&json=1&p=3&sid=1433_21088_18560&csor=4&pwd=tex&cb=jQuery110208317627113888375_1543651272686&_=1543651272690, line 1: TypeError: jQuery110208317627113888375_1543651272686 is not a function
+1543651273241	Marionette	INFO	Stopped listening on port 51264
+1543805763719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.YT0yPwhT5D1a"
+1543805767378	Marionette	INFO	Listening on port 49887
+1543805767433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=te&json=1&p=3&sid=1442_21079_27245_20719&csor=2&pwd=t&cb=jQuery110205338558238911245_1543805768576&_=1543805768579, line 1: TypeError: jQuery110205338558238911245_1543805768576 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=text&json=1&p=3&sid=1442_21079_27245_20719&csor=4&pwd=tex&cb=jQuery110205338558238911245_1543805768576&_=1543805768581, line 1: TypeError: jQuery110205338558238911245_1543805768576 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=1442_21079_27245_20719&csor=1&cb=jQuery110205338558238911245_1543805768576&_=1543805768578, line 1: TypeError: jQuery110205338558238911245_1543805768576 is not a function
+1543805769145	Marionette	INFO	Stopped listening on port 49887
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=tex&json=1&p=3&sid=1442_21079_27245_20719&csor=3&pwd=te&cb=jQuery110205338558238911245_1543805768576&_=1543805768580, line 1: TypeError: jQuery110205338558238911245_1543805768576 is not a function

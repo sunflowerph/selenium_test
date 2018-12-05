@@ -18,7 +18,9 @@ class Test(object):
 
     def quit(self):
         self.dr.q()
-a=Test()
-a.open_baidu()
-a.search('你好')
-a.quit()
+
+if __name__=='__main__':
+    a = Test()
+    a.open_baidu()
+    a.search('你好')
+    a.quit()
