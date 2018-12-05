@@ -28,7 +28,7 @@ class Logger(object):
         self.log=logging.getLogger(log)
         self.log.setLevel(logging.DEBUG)
         rq=time.strftime('%Y %m %d %H:%M:%S',time.localtime())
-        log_path=os.path.dirname(os.getcwd())+'/learn_code/Logs/'
+        log_path=os.getcwd()+'/Logs/'
         log_name=log_path+rq+'.log'
         fh=logging.FileHandler(log_name)
         fh.setLevel(logging.INFO)
@@ -46,7 +46,6 @@ class Logger(object):
 
     def getlog(self):
         return self.log
-
 
 
 

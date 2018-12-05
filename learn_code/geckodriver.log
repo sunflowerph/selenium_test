@@ -546,3 +546,10 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
+1543993495375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.UM99nnvzI7sf"
+1543993497995	Marionette	INFO	Listening on port 55310
+1543993498065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BD%A0&json=1&p=3&sid=1427_27216_21113_27244_27509&csor=1&cb=jQuery110205882962716479049_1543993499207&_=1543993499209, line 1: TypeError: jQuery110205882962716479049_1543993499207 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BD%A0%E5%A5%BD&json=1&p=3&sid=1427_27216_21113_27244_27509&csor=2&pwd=%E4%BD%A0&cb=jQuery110205882962716479049_1543993499207&_=1543993499210, line 1: TypeError: jQuery110205882962716479049_1543993499207 is not a function
+1543993499724	Marionette	INFO	Stopped listening on port 55310
