@@ -553,3 +553,114 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BD%A0&json=1&p=3&sid=1427_27216_21113_27244_27509&csor=1&cb=jQuery110205882962716479049_1543993499207&_=1543993499209, line 1: TypeError: jQuery110205882962716479049_1543993499207 is not a function
 JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E4%BD%A0%E5%A5%BD&json=1&p=3&sid=1427_27216_21113_27244_27509&csor=2&pwd=%E4%BD%A0&cb=jQuery110205882962716479049_1543993499207&_=1543993499210, line 1: TypeError: jQuery110205882962716479049_1543993499207 is not a function
 1543993499724	Marionette	INFO	Stopped listening on port 55310
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+1544012229880	Marionette	INFO	Stopped listening on port 54864
+1544079805869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.ZIKL14t1i2h0"
+1544079808850	Marionette	INFO	Listening on port 50880
+1544079808893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544079883663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.z7VsRAkSX9oE"
+1544079886193	Marionette	INFO	Listening on port 50957
+1544079886232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544079937454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.ZrXd6IPGepGQ"
+1544079940264	Marionette	INFO	Listening on port 51020
+1544079940342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544080010152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.c6CdkSU4wtFe"
+1544080012978	Marionette	INFO	Listening on port 51096
+1544080013047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=he&json=1&p=3&sid=1468_21090_27245_22073&csor=2&pwd=h&cb=jQuery11020453345108194116_1544080013778&_=1544080013781, line 1: TypeError: jQuery11020453345108194116_1544080013778 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=h&json=1&p=3&sid=1468_21090_27245_22073&csor=1&cb=jQuery11020453345108194116_1544080013778&_=1544080013780, line 1: TypeError: jQuery11020453345108194116_1544080013778 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hell&json=1&p=3&sid=1468_21090_27245_22073&csor=4&pwd=hel&cb=jQuery11020453345108194116_1544080013778&_=1544080013783, line 1: TypeError: jQuery11020453345108194116_1544080013778 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hel&json=1&p=3&sid=1468_21090_27245_22073&csor=3&pwd=he&cb=jQuery11020453345108194116_1544080013778&_=1544080013782, line 1: TypeError: jQuery11020453345108194116_1544080013778 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hello&json=1&p=3&sid=1468_21090_27245_22073&csor=5&pwd=hell&cb=jQuery11020453345108194116_1544080013778&_=1544080013784, line 1: TypeError: jQuery11020453345108194116_1544080013778 is not a function
+1544080037330	Marionette	INFO	Stopped listening on port 50880
+1544080039244	Marionette	INFO	Stopped listening on port 50957
+1544080040717	Marionette	INFO	Stopped listening on port 51020
+1544080044030	Marionette	INFO	Stopped listening on port 51096
+1544080094303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.dOsWN53a2kUj"
+1544080096734	Marionette	INFO	Listening on port 51180
+1544080096784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hell&json=1&p=3&sid=1456_27210_21108_22157&csor=4&pwd=hel&cb=jQuery110202101565769621826_1544080097409&_=1544080097414, line 1: TypeError: jQuery110202101565769621826_1544080097409 is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544080350954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.hYjkDoioNHDv"
+1544080353593	Marionette	INFO	Listening on port 51312
+1544080353632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hel&json=1&p=3&sid=1460_27210_21115_27244&csor=3&pwd=he&cb=jQuery110207982935804918534_1544080354228&_=1544080354232, line 1: TypeError: jQuery110207982935804918534_1544080354228 is not a function
+1544080377316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.AsYsIbZWB5sz"
+1544080379611	Marionette	INFO	Listening on port 51389
+1544080379691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=he&json=1&p=3&sid=1448_21089_27245_22157&csor=2&pwd=h&cb=jQuery1102032622228117558594_1544080380391&_=1544080380393, line 1: TypeError: jQuery1102032622228117558594_1544080380391 is not a function
+1544080427101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.rg3moyLlLX8V"
+1544080429678	Marionette	INFO	Listening on port 51463
+1544080429775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544080511736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.TQFx6lD6ckdz"
+1544080514629	Marionette	INFO	Listening on port 51567
+1544080514662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544080597078	Marionette	INFO	Stopped listening on port 51180
+1544080599268	Marionette	INFO	Stopped listening on port 51312
+1544080600704	Marionette	INFO	Stopped listening on port 51389
+1544080603479	Marionette	INFO	Stopped listening on port 51463
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1544080605257	Marionette	INFO	Stopped listening on port 51567
+1544080608673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.KTkv6NQ4ewen"
+1544080611215	Marionette	INFO	Listening on port 51640
+1544080611272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 43: TypeError: window is null
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 43: TypeError: window is null
+1544080690995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.yS1HbrLym0nm"
+1544080693222	Marionette	INFO	Listening on port 51720
+1544080693270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hell&json=1&p=3&sid=1451_21101_26350_27508&csor=4&pwd=hel&cb=jQuery110206810287886788781_1544080694040&_=1544080694045, line 1: TypeError: jQuery110206810287886788781_1544080694040 is not a function
+1544080728284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.OLl7ixMMfzHl"
+1544080730562	Marionette	INFO	Listening on port 51783
+1544080730656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hel&json=1&p=3&sid=27953_1429_21081_27244_27509&csor=3&pwd=he&cb=jQuery11020674122933369798_1544080731308&_=1544080731312, line 1: TypeError: jQuery11020674122933369798_1544080731308 is not a function
+1544080780837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.q4jxQT0xY4N9"
+1544080783178	Marionette	INFO	Listening on port 51855
+1544080783216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=h&json=1&p=3&sid=1444_21119_22160&csor=1&cb=jQuery110204116633950259133_1544080783927&_=1544080783929, line 1: TypeError: jQuery110204116633950259133_1544080783927 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hell&json=1&p=3&sid=1444_21119_22160&csor=4&pwd=hel&cb=jQuery110204116633950259133_1544080783927&_=1544080783932, line 1: TypeError: jQuery110204116633950259133_1544080783927 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hello&json=1&p=3&sid=1444_21119_22160&csor=5&pwd=hell&cb=jQuery110204116633950259133_1544080783927&_=1544080783933, line 1: TypeError: jQuery110204116633950259133_1544080783927 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=he&json=1&p=3&sid=1444_21119_22160&csor=2&pwd=h&cb=jQuery110204116633950259133_1544080783927&_=1544080783930, line 1: TypeError: jQuery110204116633950259133_1544080783927 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hel&json=1&p=3&sid=1444_21119_22160&csor=3&pwd=he&cb=jQuery110204116633950259133_1544080783927&_=1544080783931, line 1: TypeError: jQuery110204116633950259133_1544080783927 is not a function
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1544080786922	Marionette	INFO	Stopped listening on port 51640
+1544080788436	Marionette	INFO	Stopped listening on port 51720
+1544080789995	Marionette	INFO	Stopped listening on port 51783
+1544080791538	Marionette	INFO	Stopped listening on port 51855
+1544080819655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.I6ljjdcoGsis"
+1544080822044	Marionette	INFO	Listening on port 51932
+1544080822126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=h&json=1&p=3&sid=1436_27211_21083_27245_22157&csor=1&cb=jQuery110208237003442585681_1544080822753&_=1544080822755, line 1: TypeError: jQuery110208237003442585681_1544080822753 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=he&json=1&p=3&sid=1436_27211_21083_27245_22157&csor=2&pwd=h&cb=jQuery110208237003442585681_1544080822753&_=1544080822756, line 1: TypeError: jQuery110208237003442585681_1544080822753 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hel&json=1&p=3&sid=1436_27211_21083_27245_22157&csor=3&pwd=he&cb=jQuery110208237003442585681_1544080822753&_=1544080822757, line 1: TypeError: jQuery110208237003442585681_1544080822753 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hell&json=1&p=3&sid=1436_27211_21083_27245_22157&csor=4&pwd=hel&cb=jQuery110208237003442585681_1544080822753&_=1544080822758, line 1: TypeError: jQuery110208237003442585681_1544080822753 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hello&json=1&p=3&sid=1436_27211_21083_27245_22157&csor=5&pwd=hell&cb=jQuery110208237003442585681_1544080822753&_=1544080822759, line 1: TypeError: jQuery110208237003442585681_1544080822753 is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
