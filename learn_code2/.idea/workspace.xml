@@ -10,7 +10,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="baidu_homepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_page.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/framework/base_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#14#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#14#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,12 +70,13 @@
       <list>
         <option value="$PROJECT_DIR$/framework/browser_engin.py" />
         <option value="$PROJECT_DIR$/pageobjects.py" />
-        <option value="$PROJECT_DIR$/pageobjects/baidu_homepage.py" />
         <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/framework/logger.py" />
         <option value="$PROJECT_DIR$/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/framework/logger.py" />
+        <option value="$PROJECT_DIR$/pageobjects/baidu_homepage.py" />
         <option value="$PROJECT_DIR$/testsuits/baidu_search.py" />
+        <option value="$PROJECT_DIR$/framework/base_page.py" />
       </list>
     </option>
   </component>
@@ -44,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,38 +102,17 @@
             <path>
               <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
               <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
-              <item name="testsuits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_code2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_code2" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,7 +149,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="base_page.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn_code2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/logger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/base_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +224,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.1.py" />
-      <item itemvalue="Python.logger" />
+      <item itemvalue="Python.base_page.py" />
       <item itemvalue="Python tests.Unittests for baidu_search.BaiduSearch.test_baidu_search" />
       <item itemvalue="Python tests.Unittests in browser_engine.py" />
       <item itemvalue="Python tests.Unittests in baidu_search.py" />
@@ -207,7 +234,7 @@
       <list>
         <item itemvalue="Python tests.Unittests for baidu_search.BaiduSearch" />
         <item itemvalue="Python tests.Unittests in baidu_search.py" />
-        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.base_page.py" />
         <item itemvalue="Python tests.Unittests in browser_engine.py" />
         <item itemvalue="Python tests.Unittests for baidu_search.BaiduSearch.test_baidu_search" />
       </list>
@@ -227,21 +254,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 15h 48m 13s.xml">
-      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 15h 51m 43s.xml">
-      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 15h 52m 56s.xml">
-      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 16h 04m 10s.xml">
-      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 16h 04m 32s.xml">
-      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_baidu_search_py - 2018.12.05 at 16h 07m 23s.xml">
       <configuration name="Unittests in baidu_search.py" configurationId="tests" />
     </history-entry>
@@ -257,11 +269,27 @@
     <history-entry file="Unittests_for_baidu_search_BaiduSearch - 2018.12.05 at 16h 11m 28s.xml">
       <configuration name="Unittests for baidu_search.BaiduSearch" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_baidu_search_py - 2018.12.06 at 14h 09m 47s.xml">
+      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_baidu_search_py - 2018.12.06 at 14h 11m 17s.xml">
+      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_baidu_search_py - 2018.12.06 at 14h 11m 54s.xml">
+      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_baidu_search_py - 2018.12.06 at 14h 15m 14s.xml">
+      <configuration name="Unittests in baidu_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_baidu_search_BaiduSearch - 2018.12.06 at 14h 15m 55s.xml">
+      <configuration name="Unittests for baidu_search.BaiduSearch" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="23" width="1377" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21278141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21278141" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
@@ -282,21 +310,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21278141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3292683" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -320,9 +348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:48.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:48.log" />
     <entry file="file://$PROJECT_DIR$/framework/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -374,18 +400,11 @@
     <entry file="file://$PROJECT_DIR$/logs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/201812051143.log" />
     <entry file="file://$PROJECT_DIR$/logs/2018 12 05 15:20.log" />
     <entry file="file://$PROJECT_DIR$/1.py" />
-    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:48.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:52.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:48.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-15:52.log" />
     <entry file="file://$PROJECT_DIR$/config/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -395,33 +414,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="720">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#14#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.06-11:25.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-16:11.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.06-14:11.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.06-14:09.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/2018.12.06 14:15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots2018.12.06 1411.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018.12.06-14:15.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsuits/baidu_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="439">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#15#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018.12.05-16:11.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+    <entry file="file://$PROJECT_DIR$/pageobjects/baidu_homepage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
           <folding>
-            <element signature="e#14#28#0" expanded="true" />
+            <element signature="e#15#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
