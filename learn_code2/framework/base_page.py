@@ -37,7 +37,7 @@ class Basepage(object):
 
     def get_window_img(self):
         path=os.path.dirname(os.getcwd())+'/screenshots/'
-        rq=time.strftime('%Y.%m.%d %H:%M',time.localtime())
+        rq=time.strftime('%Y.%m.%d %H:%M:%S',time.localtime())
         screename=path+rq+'.png'
         try:
             self.driver.get_screenshot_as_file(screename)

@@ -1,0 +1,23 @@
+2018-12-07 10:53:01,863 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-07 10:53:01,864 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-12-07 10:53:04,130 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-07 10:53:04,850 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-12-07 10:53:04,852 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-07 10:53:29,424 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-07 10:53:29,424 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-12-07 10:53:31,669 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-07 10:53:32,520 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-12-07 10:53:32,523 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-07 10:53:32,559 - base_page - INFO - Had find the element '  ' successful by id via value: kw 
+2018-12-07 10:53:32,787 - base_page - INFO - Had type ' selenium ' in inputBox
+2018-12-07 10:53:32,834 - base_page - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-12-07 10:53:32,956 - base_page - INFO - The element '  ' was clicked.
+2018-12-07 10:53:35,289 - base_page - INFO - 保存了一张截图到screenshots
+2018-12-07 10:53:35,295 - base_page - INFO - Current page title is selenium_百度搜索
+2018-12-07 10:53:35,320 - base_page - INFO - Had find the element '  ' successful by id via value: kw 
+2018-12-07 10:53:35,451 - base_page - INFO - Had type ' python ' in inputBox
+2018-12-07 10:53:35,470 - base_page - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-12-07 10:53:35,567 - base_page - INFO - The element '  ' was clicked.
+2018-12-07 10:53:37,865 - base_page - INFO - 保存了一张截图到screenshots
+2018-12-07 10:53:37,865 - BrowserEngine - INFO - Now, Close and quit the browser.
+2018-12-07 10:53:37,970 - BrowserEngine - INFO - browser.quit

@@ -7,20 +7,24 @@ from pageobjects.baidu_homepage import HomePage
 
 class BaiduSearch(unittest.TestCase):
 
-    def setUp(self):
+    @classmethod    #多个用例的时候加此装饰器，防止每个用例都执行一次测试固件
+    def setUpClass(cls):
+   # def setUp(self):
         """
         测试固件的setUp()的代码，主要是测试的前提准备工作
         :return:
         """
-        browse = BrowserEngine(self)
-        self.driver = browse.open_browser(self)
+        browse = BrowserEngine(cls)
+        cls.driver = browse.open_browser(cls)
 
-    def tearDown(self):
+    @classmethod    #多个用例的时候加此装饰器，防止每个用例都执行一次测试固件
+    def tearDownClass(cls):
+   # def tearDown(self):
         """
         测试结束后的操作，这里基本上都是关闭浏览器
         :return:
         """
-        a=BrowserEngine(self.driver)
+        a=BrowserEngine(cls.driver)
         a.quit_browser()
 
     def test_baidu_search(self):
@@ -36,9 +40,16 @@ class BaiduSearch(unittest.TestCase):
         except Exception as e:
             print ('Test Fail.', format(e))
 
+    def test_search2(self):
+        homepage = HomePage(self.driver)
+        homepage.type_search('python')  # 调用页面对象中的方法
+        homepage.send_submit_btn()  # 调用页面对象类中的点击搜索按钮方法
+        time.sleep(2)
+        homepage.get_window_img()  # 调用基类截图方法
+
 
 '''
-#
+
     def test_baidu_search(self):
         """
         这里一定要test开头，把测试逻辑代码封装到一个test开头的方法里。
