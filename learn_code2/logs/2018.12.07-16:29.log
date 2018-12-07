@@ -1,0 +1,7 @@
+2018-12-07 16:29:02,375 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-07 16:29:02,375 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-12-07 16:29:04,679 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-07 16:29:05,757 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-12-07 16:29:05,758 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-07 16:30:12,400 - BrowserEngine - INFO - Now, Close and quit the browser.
+2018-12-07 16:30:12,491 - BrowserEngine - INFO - browser.quit

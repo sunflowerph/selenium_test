@@ -1,0 +1,27 @@
+2018-12-07 17:42:11,081 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-07 17:42:11,081 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-12-07 17:42:14,306 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-07 17:42:15,183 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-12-07 17:42:15,185 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-07 17:42:15,224 - base_page - INFO - Had find the element '  ' successful by id via value: kw 
+2018-12-07 17:42:15,467 - base_page - INFO - Had type ' selenium ' in inputBox
+2018-12-07 17:42:15,513 - base_page - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-12-07 17:42:15,634 - base_page - INFO - The element '  ' was clicked.
+2018-12-07 17:42:17,966 - base_page - INFO - 保存了一张截图到screenshots
+2018-12-07 17:42:17,972 - base_page - INFO - Current page title is selenium_百度搜索
+2018-12-07 17:42:17,994 - base_page - INFO - Had find the element '  ' successful by id via value: kw 
+2018-12-07 17:42:18,143 - base_page - INFO - Had type ' python ' in inputBox
+2018-12-07 17:42:18,161 - base_page - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-12-07 17:42:18,232 - base_page - INFO - The element '  ' was clicked.
+2018-12-07 17:42:20,547 - base_page - INFO - 保存了一张截图到screenshots
+2018-12-07 17:42:20,547 - BrowserEngine - INFO - Now, Close and quit the browser.
+2018-12-07 17:42:20,669 - BrowserEngine - INFO - browser.quit
+2018-12-07 17:42:20,670 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-07 17:42:20,671 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-12-07 17:42:23,004 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-07 17:42:23,868 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-12-07 17:42:23,870 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-07 17:42:23,876 - base_page - INFO - Current page title is 百度一下，你就知道
+2018-12-07 17:42:23,885 - base_page - INFO - Current page title is 百度一下，你就知道
+2018-12-07 17:42:23,889 - BrowserEngine - INFO - Now, Close and quit the browser.
+2018-12-07 17:42:23,986 - BrowserEngine - INFO - browser.quit
