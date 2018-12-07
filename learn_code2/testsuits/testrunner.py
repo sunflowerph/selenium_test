@@ -1,5 +1,6 @@
 # coding=utf-8
 
+#使用unittest.TestSuite.addTest执行不同文件下的测试用例
 import unittest
 
 from testsuits.baidu_search import BaiduSearch
