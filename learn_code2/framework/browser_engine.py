@@ -29,10 +29,10 @@ class BrowserEngine(object):
         logger.info("The test server url is: %s" % url)
 
         if browser == "Firefox":
-            driver = webdriver.Firefox(self.firefox_driver_path)
+            driver = webdriver.Firefox(executable_path=self.firefox_driver_path)
             logger.info("Starting firefox browser.")
         elif browser == "Chrome":
-            driver = webdriver.Chrome(self.chrome_driver_path)
+            driver = webdriver.Chrome(self.chrome_driver_path)#executable_path= 可省略，但是火狐不能省略
             logger.info("Starting Chrome browser.")
 
         driver.get(url)
