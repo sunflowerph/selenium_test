@@ -20,7 +20,7 @@ def confirm():
 
     dr.switch_to.frame(0)
     dr.find_element_by_xpath('//div[2]/table/tbody/tr/td/div/input').click()
-    dr.find_element_by_xpath('/html/body/div[3]/div/div/div/div[1]/table/tbody/tr/td[2]/a/span/span').click()
+    dr.find_element_by_xpath('/html/body/div[3]/div/div/div/div[1]/table/tbody/tr/td[3]/a/span/span').click()
     dr.find_element_by_xpath('/html/body/div[18]/div[3]/a/span/span[1]').click()
     dr.find_element_by_css_selector(".l-btn-focus .l-btn-text").click()
     dr.implicitly_wait(4)

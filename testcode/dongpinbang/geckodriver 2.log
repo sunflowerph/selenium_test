@@ -650,3 +650,9 @@ console.error: BroadcastService:
 1543458830695	Marionette	INFO	Listening on port 49898
 1543458830707	Marionette	WARN	TLS certificate errors will be ignored for this session
 1543459039848	Marionette	INFO	Stopped listening on port 49898
+1544254560351	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.Ap9fRMuDZR2l"
+1544254563502	Marionette	INFO	Listening on port 54524
+1544254563543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544254659347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.Mf3isynz1HpW"
+1544254661609	Marionette	INFO	Listening on port 54612
+1544254661702	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -1,0 +1,137 @@
+1544337296636	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.FOz2I9KEdUTH"
+1544337299803	Marionette	INFO	Listening on port 49468
+1544337299847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544337358529	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.shBPoWH3c1B2"
+1544337360739	Marionette	INFO	Listening on port 49527
+1544337360808	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544338769586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.X6HQfEiMX1MU"
+1544338771891	Marionette	INFO	Listening on port 49698
+1544338771959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544339510481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.TINPQgoHkWD6"
+1544339512809	Marionette	INFO	Listening on port 49792
+1544339512866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544339515742	Marionette	INFO	Stopped listening on port 49792
+[Parent 1393, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1544339555764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.HvUz4BtSgLfg"
+1544339557937	Marionette	INFO	Listening on port 49875
+1544339558023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544339560468	Marionette	INFO	Stopped listening on port 49875
+1544339791563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.VU9gBGaxXyU4"
+1544339793742	Marionette	INFO	Listening on port 49971
+1544339793827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544339795222	Marionette	INFO	Stopped listening on port 49971
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1544339815560	Marionette	INFO	Stopped listening on port 49698
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1544339818987	Marionette	INFO	Stopped listening on port 49527
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/amd_modules/@baidu/module-version/index_/static/amd_modules/@baidu/module-version/index.js.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://s4.img4399.com/cg/resource/js/api/gprp.js?2013, line 246: unreachable code after return statement
+JavaScript warning: http://s4.img4399.com/cg/resource/js/api/gprp.js?2013, line 246: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: http://s4.img4399.com/cg/resource/js/api/gprp.js?2013, line 246: unreachable code after return statement
+JavaScript warning: http://www.4399.com/comment/www/pl3.html?fid=55880&menu=1&dialog=0&pic=1, line 323: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2F&dri=0&exps=111000&pss=1280x897&dai=3&dc=3&pcs=1280x656&ccd=24&cdo=-1&psr=1440x900&cpl=0&ti=%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&ant=0&cmi=0&ltr=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120644&cec=UTF-8&drs=1&cja=false&tcn=1544348129&dis=0&par=1440x812&cce=true&cfv=0&prot=2&ps=798x150&tpr=1544348128903&dtm=HTML_POST&ari=2&col=zh-CN&pis=-1x-1&chi=4&tlm=1544348128, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2F&dri=0&exps=111000&pss=1280x897&dai=3&dc=3&pcs=1280x656&ccd=24&cdo=-1&psr=1440x900&cpl=0&ti=%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&ant=0&cmi=0&ltr=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120644&cec=UTF-8&drs=1&cja=false&tcn=1544348129&dis=0&par=1440x812&cce=true&cfv=0&prot=2&ps=798x150&tpr=1544348128903&dtm=HTML_POST&ari=2&col=zh-CN&pis=-1x-1&chi=4&tlm=1544348128, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3D2443c61be87e7e903f562a7c9b102121&dri=0&dis=0&drs=1&dai=2&col=zh-CN&cce=true&cpl=0&par=1440x812&ltr=https%3A%2F%2Fdazi.kukuw.com%2F&ccd=24&tcn=1544348132&exps=111000,114011&ps=609x150&pcs=1280x656&ti=%E5%86%8D%E8%A7%81%E5%8F%AA%E6%98%AF%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%BC%E9%9F%B3%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&tlm=1544348132&chi=5&pss=1280x658&dc=3&cec=UTF-8&cdo=-1&prot=2&tpr=1544348132400&dtm=HTML_POST&cfv=0&cmi=0&cja=false&psr=1440x900&pis=-1x-1&ant=0&ari=2, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3D2443c61be87e7e903f562a7c9b102121&dri=0&dis=0&drs=1&dai=2&col=zh-CN&cce=true&cpl=0&par=1440x812&ltr=https%3A%2F%2Fdazi.kukuw.com%2F&ccd=24&tcn=1544348132&exps=111000,114011&ps=609x150&pcs=1280x656&ti=%E5%86%8D%E8%A7%81%E5%8F%AA%E6%98%AF%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8B%BC%E9%9F%B3%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&tlm=1544348132&chi=5&pss=1280x658&dc=3&cec=UTF-8&cdo=-1&prot=2&tpr=1544348132400&dtm=HTML_POST&cfv=0&cmi=0&cja=false&psr=1440x900&pis=-1x-1&ant=0&ari=2, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120703&ltr=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3D2443c61be87e7e903f562a7c9b102121&cdo=-1&pcs=1280x656&tpr=1544348197531&ant=0&pis=-1x-1&par=1440x812&cce=true&dc=3&cja=false&chi=6&ps=1266x150&dis=0&cfv=0&cec=UTF-8&dai=6&drs=1&cmi=0&ari=2&tlm=1544348197&exps=111000&tcn=1544348198&cpl=0&prot=2&dtm=HTML_POST&pss=2140x1365&dri=0&col=zh-CN&ti=%E6%B8%B8%E5%AE%A265791947%E7%9A%84%E6%89%93%E5%AD%97%E4%BF%A1%E6%81%AF%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&psr=1440x900&ccd=24, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120703&ltr=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3D2443c61be87e7e903f562a7c9b102121&cdo=-1&pcs=1280x656&tpr=1544348197531&ant=0&pis=-1x-1&par=1440x812&cce=true&dc=3&cja=false&chi=6&ps=1266x150&dis=0&cfv=0&cec=UTF-8&dai=6&drs=1&cmi=0&ari=2&tlm=1544348197&exps=111000&tcn=1544348198&cpl=0&prot=2&dtm=HTML_POST&pss=2140x1365&dri=0&col=zh-CN&ti=%E6%B8%B8%E5%AE%A265791947%E7%9A%84%E6%89%93%E5%AD%97%E4%BF%A1%E6%81%AF%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&psr=1440x900&ccd=24, line 119: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 602: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3Db02b0e960c2c567fac12c6638bc12a76&cce=true&tlm=1544348222&cmi=0&cdo=-1&dis=0&ti=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A8%E5%8D%95%E8%AF%8D%E5%89%8D500%EF%BC%88%E6%89%8B%E6%89%93%E7%9A%84%EF%BC%8C%E6%97%A0%E5%A4%A7%E5%86%99%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%9C%89%E6%9E%81%E4%B8%AA%E5%88%AB%E5%8D%95%E8%AF%8D%E6%89%93%E9%94%99%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&cfv=0&pss=1280x658&ltr=https%3A%2F%2Fdazi.kukuw.com%2F&tcn=1544348222&psr=1440x900&ps=609x150&ant=0&dc=3&col=zh-CN&exps=111000,113000&cpl=0&dri=0&pis=-1x-1&drs=1&par=1440x812&cja=false&pcs=1280x656&dai=2&tpr=1544348222351&prot=2&dtm=HTML_POST&chi=2&ccd=24&ari=2&cec=UTF-8, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3Db02b0e960c2c567fac12c6638bc12a76&cce=true&tlm=1544348222&cmi=0&cdo=-1&dis=0&ti=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B8%B8%E7%94%A8%E5%8D%95%E8%AF%8D%E5%89%8D500%EF%BC%88%E6%89%8B%E6%89%93%E7%9A%84%EF%BC%8C%E6%97%A0%E5%A4%A7%E5%86%99%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%9C%89%E6%9E%81%E4%B8%AA%E5%88%AB%E5%8D%95%E8%AF%8D%E6%89%93%E9%94%99%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&cfv=0&pss=1280x658&ltr=https%3A%2F%2Fdazi.kukuw.com%2F&tcn=1544348222&psr=1440x900&ps=609x150&ant=0&dc=3&col=zh-CN&exps=111000,113000&cpl=0&dri=0&pis=-1x-1&drs=1&par=1440x812&cja=false&pcs=1280x656&dai=2&tpr=1544348222351&prot=2&dtm=HTML_POST&chi=2&ccd=24&ari=2&cec=UTF-8, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120762&ti=%E6%B8%B8%E5%AE%A265791947%E7%9A%84%E6%89%93%E5%AD%97%E4%BF%A1%E6%81%AF%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&cja=false&tlm=1544348288&prot=2&dai=6&cec=UTF-8&pss=2140x1365&cmi=0&pcs=1280x656&tpr=1544348287962&cfv=0&col=zh-CN&dis=0&exps=111000&ltr=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3Db02b0e960c2c567fac12c6638bc12a76&ant=0&ari=2&cdo=-1&cce=true&dri=0&ps=1266x150&ccd=24&dc=3&psr=1440x900&drs=1&tcn=1544348288&cpl=0&dtm=HTML_POST&pis=-1x-1&chi=3&par=1440x812, line 119: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?hei=22&wid=960&di=u2039698&ltu=https%3A%2F%2Fdazi.kukuw.com%2Finfo_my.php%3Fid%3D48120762&ti=%E6%B8%B8%E5%AE%A265791947%E7%9A%84%E6%89%93%E5%AD%97%E4%BF%A1%E6%81%AF%20-%20%E5%9C%A8%E7%BA%BF%E6%89%93%E5%AD%97%E6%B5%8B%E8%AF%95%EF%BC%88dazi.kukuw.com%EF%BC%89&cja=false&tlm=1544348288&prot=2&dai=6&cec=UTF-8&pss=2140x1365&cmi=0&pcs=1280x656&tpr=1544348287962&cfv=0&col=zh-CN&dis=0&exps=111000&ltr=https%3A%2F%2Fdazi.kukuw.com%2Ftyping.html%3Ft%3Db02b0e960c2c567fac12c6638bc12a76&ant=0&ari=2&cdo=-1&cce=true&dri=0&ps=1266x150&ccd=24&dc=3&psr=1440x900&drs=1&tcn=1544348288&cpl=0&dtm=HTML_POST&pis=-1x-1&chi=3&par=1440x812, line 119: unreachable code after return statement
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/amd_modules/@baidu/module-version/index_/static/amd_modules/@baidu/module-version/index.js.js, line 1: SyntaxError: expected expression, got '<'
+1544360933967	Marionette	INFO	Stopped listening on port 49468
+1544412206731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.kiZ6GAhGAuwp"
+1544412208992	Marionette	INFO	Listening on port 50018
+1544412209018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544412594099	Marionette	INFO	Stopped listening on port 50018
+1544412991022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.hjLqeoNcddCI"
+1544412993303	Marionette	INFO	Listening on port 50497
+1544412993384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544413498669	Marionette	INFO	Stopped listening on port 50497
+1544423970919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.fvWwU94wscmA"
+1544423973208	Marionette	INFO	Listening on port 51434
+1544423973286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424047270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.YFp7ppDVVbTd"
+1544424049660	Marionette	INFO	Listening on port 51500
+1544424049752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424144742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.utzHiJlGSYTp"
+1544424146894	Marionette	INFO	Listening on port 51622
+1544424146930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424209124	Marionette	INFO	Stopped listening on port 51434
+1544424212604	Marionette	INFO	Stopped listening on port 51500
+1544424214511	Marionette	INFO	Stopped listening on port 51622
+1544424217833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.fJIU0wI106yl"
+1544424220090	Marionette	INFO	Listening on port 51684
+1544424220131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424273276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.A4XdY0GH7idj"
+1544424275413	Marionette	INFO	Listening on port 51739
+1544424275450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424308241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.m5GDjAhxnGTc"
+1544424310688	Marionette	INFO	Listening on port 51794
+1544424310729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424377185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.DybotINX9y75"
+1544424379396	Marionette	INFO	Listening on port 51858
+1544424379472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424417619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.LNBwtIUhKWf4"
+1544424420043	Marionette	INFO	Listening on port 51914
+1544424420106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424431479	Marionette	INFO	Stopped listening on port 51684
+1544424432818	Marionette	INFO	Stopped listening on port 51739
+1544424434183	Marionette	INFO	Stopped listening on port 51794
+1544424435513	Marionette	INFO	Stopped listening on port 51858
+1544424437271	Marionette	INFO	Stopped listening on port 51914
+1544424666055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.eyjFx1nHIuBF"
+1544424668293	Marionette	INFO	Listening on port 52074
+1544424668331	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544424715350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zl/fst7sxr92r54t3s6gl0nt1640000gn/T/rust_mozprofile.DRSv0HD4RbVc"
+1544424717442	Marionette	INFO	Listening on port 52137
+1544424717512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544424875749	Marionette	INFO	Stopped listening on port 52074
+1544424877143	Marionette	INFO	Stopped listening on port 52137
